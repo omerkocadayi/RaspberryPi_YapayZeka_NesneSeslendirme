@@ -14,7 +14,7 @@ Geliştirmiş olduğum robot projesine benzer bir ürün veya çalışma henüz 
 bu konuda henüz herhangi bir patent alınmamış olması sebebiyle projenin detaylarını bu aşamada
 paylaşamayacağım.
 
-Zamanla; projede kullanmış olduğun yapay zeka eğitimleri ve öğrenimlerini, veri tabanı graflarını,
+Zamanla; projede kullanmış olduğum yapay zeka eğitimleri ve öğrenimlerini, veri tabanı graflarını,
 robot ile hızlı haberleşme algoritmalarını, gps konum takip verileri ve optimizasyonlarını adım adım
 paylaşıyor olacağım.
 
