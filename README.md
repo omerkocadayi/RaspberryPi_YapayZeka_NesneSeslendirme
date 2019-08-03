@@ -1,5 +1,11 @@
 # RaspberryPi_YapayZeka_NesneTanimlama_Seslendirme
 
+Basit bir veritabanı eğiterek bu kod ile çalıştırabilirsiniz. Yakın zamanda sinir ağı,
+yapay zeka eğitimi üzerine örnekler paylaşıyor olacağım. Veritabanı eğitimi bu klasörde hala yoksa
+Python_Goruntu_Isleme klasörüne goz atabilirsiniz.
+
+__________________________________________________
+
 Görme engelli kişiler için geliştirdiğim 'nesne tanımlama ve seslendirme robotu' içeriği..
 
 Donanım Kısmında ; RaspberryPi 3B+ , RPi Motor Driver Board , RaspberryPi Kamera Modülü ,
