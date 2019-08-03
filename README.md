@@ -13,8 +13,8 @@ Donanım Kısmında ; RaspberryPi 3B+ , RPi Motor Driver Board , RaspberryPi Kam
 Mobil Robot Platformu , Hafıza Kartı , Hoparlör , 3 Boyutlu Yazıcı (Robot Kapağı İçin) ,
 Powerbank (5 Volt 2 Amper) , Pil (3 Adet 9 Volt) , Bağlantı Kabloları Kullanılmıştır.
 
-Yazılım Kısmında ; Python 3.5 ve Python 2.7 kullanılmıştır. Tensorflow, OpenCV(CV2), Numpy ve
-PiCamera kütüphanelerinin kurulumu gerekmektedir.
+Yazılım Kısmında ; Python 3.5 ve Python 2.7 kullanılmıştır. Tensorflow, OpenCV(CV2), Numpy,
+PiCamera ve Flite kurulumu gerekmektedir.
 
 Geliştirmiş olduğum robot projesine benzer bir ürün veya çalışma henüz piyasada olmadığından ve
 bu konuda henüz herhangi bir patent alınmamış olması sebebiyle projenin detaylarını bu aşamada
